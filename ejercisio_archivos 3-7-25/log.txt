@@ -1,0 +1,13 @@
+INFO: Sistema iniciado correctamente
+INFO: Usuario Juan ha iniciado sesión
+WARNING: Uso de CPU elevado
+ERROR: No se pudo conectar a la base de datos
+INFO: Verificación de seguridad completada
+ERROR: Archivo de configuración no encontrado
+WARNING: Espacio en disco bajo
+INFO: Tarea programada ejecutada
+ERROR: Permiso denegado al acceder al recurso
+INFO: Servicio de correo iniciado
+INFO: Usuario Ana ha cerrado sesión
+ERROR: Fallo en la autenticación del usuario
+WARNING: Intento de conexión sospechoso
